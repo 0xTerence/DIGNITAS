@@ -1,8 +1,8 @@
 # TALIS
 
-"a council for social audits"
+"a protocol council for DeFi social audits"
 
-a protocol governed protocol database
-non-identity based voting system for on chain curation
+a protocol governed DeFi database
+identity agnostic voting system for on-chain curation
 
-soon
+### soon
