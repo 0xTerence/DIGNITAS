@@ -1,4 +1,4 @@
-# TALIS
+# DIGNITAS
 
 "a protocol council for DeFi social audits"
 
